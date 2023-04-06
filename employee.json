@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "name": "Madhava",
+            "dob": "1989-07-18",
+            "height": "177cm",
+            "city": "Mumbai",
+            "state": "Maharastra"
+        },
+        {
+            "name": "Chari naik",
+            "dob": "2007-03-25",
+            "height": "170cm",
+            "city": "Varanasi",
+            "state": "UP"
+        },
+        {
+            "name": "Jignesh",
+            "dob": "1975-09-08",
+            "height": "167cm",
+            "city": "Ahmedabad",
+            "state": "Gujrat"
+        },
+        {
+            "name": "Parth",
+            "dob": "1996-05-01",
+            "height": "170cm",
+            "city": "Nagpur",
+            "state": "Maharatsra"
+        },
+        {
+            "name": "shiva krishna",
+            "dob": "1989-07-03",
+            "height": "173cm",
+            "city": "Hyderabad",
+            "state": "Telangana"
+        }
+    ]
+}
